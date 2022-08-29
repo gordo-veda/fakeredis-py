@@ -38,7 +38,7 @@ repository = "https://github.com/cunla/fakeredis-py"
 
 [tool.poetry.dependencies]
 python = "^3.7"
-redis = "<4.4"
+redis = "<4.5"
 six = "^1.16.0"
 sortedcontainers = "^2.4.0"
 lupa = { version = "^1.13", optional = true }
